@@ -11,7 +11,7 @@ Bikeshare systems allow users to rent bikes for a reasonable fee, picking up a b
 - new_york_city.csv 
 - washington.csv  
 
-Note: The 'Gender' and 'Brith Year' data are not available in the Washington dataset.
+Note: The 'Gender' and 'Birth Year' data are not available in the Washington dataset.
 
 
 
